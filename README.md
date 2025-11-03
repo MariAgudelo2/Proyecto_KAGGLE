@@ -6,3 +6,4 @@ Repositorio destinado al desarrollo del proyecto del curso de Modelos I, basado 
 - Santiago Zapata Coral - C.C: 1066270657
 
 **Programa académico:** 504 - Ingeniería de Sistemas Presencial
+VIDEO ENTREGA 2: https://youtu.be/nR3MyT_i_8E
