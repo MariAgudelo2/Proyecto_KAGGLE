@@ -8,3 +8,5 @@ Repositorio destinado al desarrollo del proyecto del curso de Modelos I, basado 
 **Programa académico:** 504 - Ingeniería de Sistemas Presencial
 
 VIDEO ENTREGA 2: https://youtu.be/nR3MyT_i_8E
+
+VIDEO ENTREGA FINAL: https://youtu.be/P0Dl6o-q4tg
